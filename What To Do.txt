@@ -81,5 +81,11 @@ if the top doesn't work, just use the bottom
 	and ur done!!!
 
 
+	if u want to grab everything on the website, just type:
+	
+	git pull origin main
+
+
+
 
 	
