@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635524336416",
+    "project_id": "lab-5-fire",
+    "storage_bucket": "lab-5-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635524336416:android:ccea9c2c426482491ba545",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635524336416-l6drupjtbuvr3pue9dh5mjfodd5ndnv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJR7v7McVPxQC0P1PsYg5LRQBOGBl6KXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635524336416-l6drupjtbuvr3pue9dh5mjfodd5ndnv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
